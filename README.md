@@ -91,7 +91,7 @@ LIMIT 5
 SELECT DISTINCT country  
 FROM customers  
 ORDER BY country  
-~~~
+~~~ This is a test line
 ## SQL Min, Max
 ~~~
 SELECT MIN(unit_price)  
